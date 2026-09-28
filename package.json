@@ -16,5 +16,8 @@
     "url": "https://github.com/SenhorSchiavon/dispatch/issues"
   },
   "homepage": "https://github.com/SenhorSchiavon/dispatch#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
