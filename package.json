@@ -18,6 +18,7 @@
   "homepage": "https://github.com/SenhorSchiavon/dispatch#readme",
   "description": "",
   "devDependencies": {
+    "@types/node": "^26.6.3",
     "typescript": "^7.0.2"
   }
 }
